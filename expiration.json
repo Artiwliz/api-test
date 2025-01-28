@@ -1,0 +1,44 @@
+{
+    "servers": [
+        {
+            "name": "MORGANGAME",
+            "ip": "morgan-games.com",
+            "port": 7777,
+            "expiration_day": 30,
+            "expiration_month": 10,
+            "expiration_year": 2025,
+            "expiration_hour": 12,
+            "expiration_minute": 1
+        },
+        {
+            "name": "IRONMANZING",
+            "ip": "gta-irz.com",
+            "port": 7777,
+            "expiration_day": 29,
+            "expiration_month": 10,
+            "expiration_year": 2025,
+            "expiration_hour": 7,
+            "expiration_minute": 15
+        },
+		{
+            "name": "UIF SERVER",
+            "ip": "play.uifserver.net",
+            "port": 7776,
+            "expiration_day": 30,
+            "expiration_month": 10,
+            "expiration_year": 2025,
+            "expiration_hour": 7,
+            "expiration_minute": 15
+        },
+		{
+            "name": "LEGEND SERVER",
+            "ip": "191.96.92.80",
+            "port": 7777,
+            "expiration_day": 30,
+            "expiration_month": 10,
+            "expiration_year": 2025,
+            "expiration_hour": 7,
+            "expiration_minute": 15
+        }
+    ]
+}
