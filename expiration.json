@@ -30,9 +30,19 @@
             "expiration_hour": 7,
             "expiration_minute": 15
         },
-		{
+	{
             "name": "LEGEND SERVER",
             "ip": "191.96.92.80",
+            "port": 7777,
+            "expiration_day": 30,
+            "expiration_month": 10,
+            "expiration_year": 2025,
+            "expiration_hour": 7,
+            "expiration_minute": 15
+        },
+	{
+            "name": "Suckker SERVER",
+            "ip": "191.96.93.194",
             "port": 7777,
             "expiration_day": 30,
             "expiration_month": 10,
