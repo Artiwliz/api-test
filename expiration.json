@@ -52,7 +52,7 @@
         },
 	{
             "name": "Street SERVER",
-            "ip": "31.56.79.78",
+            "ip": "31.56.79.114",
             "port": 7777,
             "expiration_day": 30,
             "expiration_month": 10,
