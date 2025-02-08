@@ -42,7 +42,7 @@
         },
 	{
             "name": "Suckker SERVER",
-            "ip": "191.96.93.194",
+            "ip": "191.96.92.106",
             "port": 7777,
             "expiration_day": 30,
             "expiration_month": 10,
